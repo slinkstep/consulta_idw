@@ -65,6 +65,9 @@
   color: orange;
 }
 
+.sectionbox > ul,ol {
+  color: green;
+}
 
 
 
@@ -81,7 +84,7 @@
 
 .backlog{
   width: 600px;
-  height: 400px;
+  height: 450px;
 }
 
 .ocultar{
