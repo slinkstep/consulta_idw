@@ -1,0 +1,115 @@
+.boton_menu{
+
+	position: fixed;
+	top:5px;
+	z-index: 11;
+	background-color: orange;
+
+}
+
+.image{
+  width:800px;
+  height:800px;
+}
+
+#btn_1{
+
+  left: 180px;
+
+}
+
+#btn_2{
+
+  left: 210px;
+
+}
+
+#btn_3{
+
+  left: 240px;
+
+}
+
+#btn_4{
+
+  left: 270px;
+
+}
+
+#btn_5{
+
+  left: 300px;
+
+}
+
+#btn_6{
+  left: 330px;
+
+}
+
+#btn_7{
+
+  left: 360px;
+
+}
+
+.sectionbox{
+	position: relative;
+	background-color: white;
+	top: 40px;
+	width: 600px;
+	height: 1500px;
+}
+
+.sectionbox > h1 {
+  color: orange;
+}
+
+
+
+
+.menu{
+	position: fixed;
+	left: 176px;
+	top:2px;
+	z-index: 1;
+	width: 210px;
+	height: 32px;
+	background-color: grey;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.backlog{
+  width: 600px;
+  height: 400px;
+}
+
+.ocultar{
+
+	display: none;
+}
+
+
+#lightbox{
+	position: absolute;
+	background: rgba(0,0,0,.3);
+	top: 0px;
+	left:0px;
+	width: 100%;
+	height: 200%;
+	margin: 0;
+	padding:0;
+	z-index: 2;
+}
+
+#ventanamodal{
+
+	background-color: gray;
+	margin: 0 auto;
+	border-radius: 15px;
+	padding: 10px;
+	margin-top: 100px;
+	text-align: center;
+	width: 400px;
+	height: 250px;
+}
